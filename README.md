@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Bhoomilodha/solved/tree/master/0344-reverse-string) |
 | [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Bhoomilodha/solved/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
