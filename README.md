@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomilodha/solved/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Bhoomilodha/solved/tree/master/0217-contains-duplicate) |
+| [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -51,8 +52,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhoomilodha/solved/tree/master/0217-contains-duplicate) |
+| [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhoomilodha/solved/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
