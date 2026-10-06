@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Bhoomilodha/solved/tree/master/0493-reverse-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhoomilodha/solved/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhoomilodha/solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bhoomilodha/solved/tree/master/3525-find-x-value-of-array-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhoomilodha/solved/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhoomilodha/solved/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhoomilodha/solved/tree/master/0238-product-of-array-except-self) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhoomilodha/solved/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Dynamic Programming
 |  |
 | ------- |
