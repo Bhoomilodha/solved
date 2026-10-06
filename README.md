@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bhoomilodha/solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhoomilodha/solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bhoomilodha/solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Bhoomilodha/solved/tree/master/0493-reverse-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bhoomilodha/solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Bhoomilodha/solved/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/Bhoomilodha/solved/tree/master/2126-destroying-asteroids) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bhoomilodha/solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Bhoomilodha/solved/tree/master/0344-reverse-string) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bhoomilodha/solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhoomilodha/solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/Bhoomilodha/solved/tree/master/2126-destroying-asteroids) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bhoomilodha/solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
 |  |
 | ------- |
