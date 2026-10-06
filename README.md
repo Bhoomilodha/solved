@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhoomilodha/solved/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhoomilodha/solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3093-longest-common-suffix-queries](https://github.com/Bhoomilodha/solved/tree/master/3093-longest-common-suffix-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bhoomilodha/solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhoomilodha/solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhoomilodha/solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/Bhoomilodha/solved/tree/master/1871-jump-game-vii) |
+| [3093-longest-common-suffix-queries](https://github.com/Bhoomilodha/solved/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhoomilodha/solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Bhoomilodha/solved/tree/master/1306-jump-game-iii) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Bhoomilodha/solved/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
