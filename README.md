@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhoomilodha/solved/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Bhoomilodha/solved/tree/master/0493-reverse-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bhoomilodha/solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhoomilodha/solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhoomilodha/solved/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhoomilodha/solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
