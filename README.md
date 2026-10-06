@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Bhoomilodha/solved/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/Bhoomilodha/solved/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhoomilodha/solved/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Bhoomilodha/solved/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhoomilodha/solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/Bhoomilodha/solved/tree/master/3612-process-string-with-special-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
