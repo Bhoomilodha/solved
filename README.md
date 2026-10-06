@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhoomilodha/solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3093-longest-common-suffix-queries](https://github.com/Bhoomilodha/solved/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bhoomilodha/solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhoomilodha/solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Bhoomilodha/solved/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/Bhoomilodha/solved/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhoomilodha/solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Bhoomilodha/solved/tree/master/0493-reverse-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Bhoomilodha/solved/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
 ## Merge Sort
 |  |
 | ------- |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Bhoomilodha/solved/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
 ## Treap
 |  |
 | ------- |
