@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhoomilodha/solved/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2126-destroying-asteroids](https://github.com/Bhoomilodha/solved/tree/master/2126-destroying-asteroids) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Bhoomilodha/solved/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhoomilodha/solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3093-longest-common-suffix-queries](https://github.com/Bhoomilodha/solved/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhoomilodha/solved/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Bhoomilodha/solved/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhoomilodha/solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Binary Search
 |  |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhoomilodha/solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Bhoomilodha/solved/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Bhoomilodha/solved/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
