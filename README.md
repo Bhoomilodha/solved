@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Bhoomilodha/solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhoomilodha/solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bhoomilodha/solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Bhoomilodha/solved/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/Bhoomilodha/solved/tree/master/2126-destroying-asteroids) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Bhoomilodha/solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Bhoomilodha/solved/tree/master/3689-maximum-total-subarray-value-i) |
 ## Depth-First Search
 |  |
 | ------- |
