@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Bhoomilodha/solved/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhoomilodha/solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2126-destroying-asteroids](https://github.com/Bhoomilodha/solved/tree/master/2126-destroying-asteroids) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhoomilodha/solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3093-longest-common-suffix-queries](https://github.com/Bhoomilodha/solved/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Bhoomilodha/solved/tree/master/3161-block-placement-queries) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
 | [1340-jump-game-v](https://github.com/Bhoomilodha/solved/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/Bhoomilodha/solved/tree/master/2126-destroying-asteroids) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhoomilodha/solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/Bhoomilodha/solved/tree/master/2126-destroying-asteroids) |
 ## Depth-First Search
 |  |
 | ------- |
