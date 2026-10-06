@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhoomilodha/solved/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Bhoomilodha/solved/tree/master/0493-reverse-pairs) |
 | [1306-jump-game-iii](https://github.com/Bhoomilodha/solved/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/Bhoomilodha/solved/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Bhoomilodha/solved/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhoomilodha/solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhoomilodha/solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhoomilodha/solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1340-jump-game-v](https://github.com/Bhoomilodha/solved/tree/master/1340-jump-game-v) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhoomilodha/solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhoomilodha/solved/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Bhoomilodha/solved/tree/master/1096-brace-expansion-ii) |
+| [1340-jump-game-v](https://github.com/Bhoomilodha/solved/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhoomilodha/solved/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Divide and Conquer
 |  |
